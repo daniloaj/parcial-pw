@@ -1,0 +1,56 @@
+.covid{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    color: coral;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 100px;
+    margin-left: 15px;
+}
+.div1{
+    text-align: center;
+    background-color: #413c69;
+}
+body{
+    background-color: black;
+}
+.sabor{
+    color: coral;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    
+}
+.taquitos{
+    width: 1200px ;
+    height: 560px ;
+    margin-left: 150px;
+}
+.divinfo{
+    background-color: #a7c5eb;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50px;
+}
+.imagesobrenosotros{
+    border-style: solid;
+    border-color: darkslateblue;
+    border-radius: 50px;
+    width: 400px;
+    height: 200px;
+}
+p{
+    font-size: 25px;
+}
+.imagenhamster{
+    border-radius: 25px;
+    margin-left: 30px;
+}
+.divbajo{
+    background-color: #9fd8df;
+    text-align: center;
+}
